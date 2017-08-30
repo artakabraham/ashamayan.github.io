@@ -1,0 +1,248 @@
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important 
+	}
+	
+img#wpstats {display:none}
+
+.accelerate-button,
+        blockquote,
+        button,
+        input[type=button],
+        input[type=reset],
+        input[type=submit] {
+            background-color: #09c
+        }
+        #site-title a:hover,
+        .next a:hover,
+        .previous a:hover,
+        a {
+            color: #09c
+        }
+        #search-form span,
+        .main-navigation a:hover,
+        .main-navigation ul li ul li a:hover,
+        .main-navigation ul li ul li:hover>a,
+        .main-navigation ul li.current-menu-ancestor a,
+        .main-navigation ul li.current-menu-item a,
+        .main-navigation ul li.current-menu-item ul li a:hover,
+        .main-navigation ul li.current_page_ancestor a,
+        .main-navigation ul li.current_page_item a,
+        .main-navigation ul li:hover>a {
+            background-color: #09c
+        }
+        .site-header .menu-toggle:before {
+            color: #09c
+        }
+        .main-small-navigation li a:hover,
+        .widget_team_block .more-link {
+            background-color: #09c
+        }
+        .main-small-navigation .current-menu-item a,
+        .main-small-navigation .current_page_item a,
+        .team-title::before {
+            background: #09c
+        }
+        .footer-menu a:hover,
+        .footer-menu ul li.current-menu-ancestor a,
+        .footer-menu ul li.current-menu-item a,
+        .footer-menu ul li.current_page_ancestor a,
+        .footer-menu ul li.current_page_item a,
+        .footer-menu ul li:hover>a,
+        .widget_team_block .team-title:hover>a {
+            color: #09c
+        }
+        a.slide-prev,
+        a.slide-next,
+        .slider-title-head .entry-title a {
+            background-color: #09c
+        }
+        #controllers a.active,
+        #controllers a:hover,
+        .widget_team_block .team-social-icon a:hover {
+            background-color: #09c;
+            color: #09c
+        }
+        .format-link .entry-content a {
+            background-color: #09c
+        }
+        .tg-one-fourth .widget-title a:hover,
+        .tg-one-half .widget-title a:hover,
+        .tg-one-third .widget-title a:hover,
+        .widget_featured_posts .tg-one-half .entry-title a:hover,
+        .widget_image_service_block .entry-title a:hover,
+        .widget_service_block i.fa,
+        .widget_fun_facts .counter-icon i {
+            color: #09c
+        }
+        #content .wp-pagenavi .current,
+        #content .wp-pagenavi a:hover,
+        .pagination span {
+            background-color: #09c
+        }
+        .pagination a span:hover {
+            color: #09c;
+            border-color: #09c
+        }
+        #content .comments-area a.comment-edit-link:hover,
+        #content .comments-area a.comment-permalink:hover,
+        #content .comments-area article header cite a:hover,
+        .comments-area .comment-author-link a:hover,
+        .widget_testimonial .testimonial-icon:before,
+        .widget_testimonial i.fa-quote-left {
+            color: #09c
+        }
+        #wp-calendar #today,
+        .comment .comment-reply-link:hover,
+        .nav-next a:hover,
+        .nav-previous a:hover {
+            color: #09c
+        }
+        .widget-title span {
+            border-bottom: 2px solid #09c
+        }
+        #secondary h3 span:before,
+        .footer-widgets-area h3 span:before {
+            color: #09c
+        }
+        #secondary .accelerate_tagcloud_widget a:hover,
+        .footer-widgets-area .accelerate_tagcloud_widget a:hover {
+            background-color: #09c
+        }
+        .footer-socket-wrapper .copyright a:hover,
+        .footer-widgets-area a:hover {
+            color: #09c
+        }
+        a#scroll-up {
+            background-color: #09c
+        }
+        .entry-meta .byline i,
+        .entry-meta .cat-links i,
+        .entry-meta a,
+        .post .entry-title a:hover {
+            color: #09c
+        }
+        .entry-meta .post-format i {
+            background-color: #09c
+        }
+        .entry-meta .comments-link a:hover,
+        .entry-meta .edit-link a:hover,
+        .entry-meta .posted-on a:hover,
+        .entry-meta .tag-links a:hover {
+            color: #09c
+        }
+        .more-link span,
+        .read-more {
+            background-color: #09c
+        }
+        .single #content .tags a:hover {
+            color: #09c
+        }
+        #page {
+            border-top: 3px solid #09c
+        }
+        .nav-menu li a:hover,
+        .top-menu-toggle:before {
+            color: #09c
+        }
+        .footer-socket-wrapper {
+            border-top: 3px solid #09c
+        }
+        .comments-area .comment-author-link span {
+            background-color: #09c
+        }
+        .woocommerce a.button,
+        .woocommerce button.button,
+        .woocommerce input.button,
+        .woocommerce #respond input#submit,
+        .woocommerce #content input.button,
+        .woocommerce-page a.button,
+        .woocommerce-page button.button,
+        .woocommerce-page input.button,
+        .woocommerce-page #respond input#submit,
+        .woocommerce-page #content input.button,
+        main-navigation li.menu-item-has-children:hover {
+            background-color: #09c
+        }
+        #featured-slider .entry-content {
+            color: #FFF
+        }
+        #featured-slider,
+        #featured-slider .slider-cycle {
+            background-color: #FFF
+        }
+
+ .recentcomments a {
+            display: inline !important;
+            padding: 0 !important;
+            margin: 0 !important;
+ }			
+ 
+ .tg-one-third ul li {	 
+    line-height: 1.5;
+    border-bottom: 1px solid #EAEAEA;
+    padding: 5px 0;
+    text-align: left;
+ }
+ 
+.first ul > :first-child {
+	border-bottom-color: #0099CC !important;
+}
+
+
+.daily ul {
+    list-style:none !important;
+}
+
+.daily ul li {
+    line-height: 1.5 !important;
+    border-bottom: 1px solid #EAEAEA !important;
+    padding: 5px 0 !important;
+    text-align: left !important;
+}
+
+.daily ul :first-child{
+    border-bottom-color: #0099CC !important;
+}
+
+.daily a {
+    color: #09c !important;
+    text-decoration: none !important;
+}
+
+.fa {
+    margin-right: 10px;
+}
+
+#primary_two {
+    float: left;
+    width: 32%;
+    margin:0 3% 3% 0;
+}
+
+#secondary_two {
+    float: right;
+    width: 65%;
+}
+
+.book{
+     width: 100%;
+    float: left;
+    margin-bottom: 20px;
+}
+
+.quantity input {
+    float: left;
+    margin: 0 4px 0 0;
+    height: 38px;
+    width: 3.631em;
+    text-align: center;
+}
